@@ -1021,13 +1021,15 @@
 }
 
 .childWrapper-1j_1ub {
-    background-image: linear-gradient(30deg, rgba(0,0,0,.4), rgba(0,0,0,.5)), url(https://images5.alphacoders.com/119/1197424.jpg);
+    home-icon: url('https://images5.alphacoders.com/119/1197424.jpg');
+    /*background-image: linear-gradient(30deg, rgba(0,0,0,.4), rgba(0,0,0,.5)), url(https://images5.alphacoders.com/119/1197424.jpg);*/
     background-size: cover;
 }
 
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, 
 .wrapper-3kah-n:hover .childWrapper-1j_1ub {
-    background-image: linear-gradient(30deg, rgba(0,0,0,.4), rgba(0,0,0,.5)), url(https://images5.alphacoders.com/119/1197424.jpg);
+    home-icon: url('https://images5.alphacoders.com/119/1197424.jpg');
+    /*background-image: linear-gradient(30deg, rgba(0,0,0,.4), rgba(0,0,0,.5)), url(https://images5.alphacoders.com/119/1197424.jpg);*/
     background-size: cover;
 }
 
